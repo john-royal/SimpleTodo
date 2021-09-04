@@ -24,7 +24,7 @@ No additional features have been implemented. However, I did some refactoring an
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/gDuJjww.gif' title='Video Walkthrough' alt='Video Walkthrough' width='200px' />
+<img src='https://raw.githubusercontent.com/john-royal/SimpleTodo/main/SimpleTodosWalkthrough.gif' title='Video Walkthrough' alt='Video Walkthrough' width='200px' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
